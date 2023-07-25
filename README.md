@@ -1,7 +1,5 @@
 ### Olá, eu sou o Vinícius Chiapetta!🦸‍♂️
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jaketech)
-
 ![Chiatech's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiatech&show_icons=true&theme=dracula)
 
 ## Tecnologias que estou aprendendo
